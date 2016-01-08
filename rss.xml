@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[akagus]]></title>
+        <description><![CDATA[akagus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 08:43:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flying Toasters]]></title>
+            <description><![CDATA[<article><h1>Flying Toasters</h1><p>A page of original content</p></article>]]></description>
+            <link>undefinedflying-toasters/index.html</link>
+            <guid isPermaLink="false">a3dd6b53-7960-41ee-b611-50a3d46fc590</guid>
+            <pubDate>Fri, 08 Jan 2016 08:43:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

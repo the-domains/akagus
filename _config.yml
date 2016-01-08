@@ -1,0 +1,28 @@
+name: akagus
+favicon: null
+layout_spectrum: 0.05262349336408079
+typography_spectrum: 0.5243694444652647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7963687430601567
+  lightness: 0.9630666284356266
+  saturation: 0.1894936382304877
+  rhythmicContrast: 0.7031367786694318
+purpose: []
